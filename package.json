@@ -1,0 +1,16 @@
+{
+  "name": "wiord-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "type": "commonjs",
+  "dependencies": {
+    "docxtemplater": "^3.22.1",
+    "moment": "^2.29.1",
+    "number-to-cyrillic": "^2.6.5",
+    "pizzip": "^3.0.6",
+    "read-excel-file": "^5.1.0",
+    "xlsx": "^0.17.0"
+  }
+}
