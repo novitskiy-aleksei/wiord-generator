@@ -6,7 +6,7 @@
   "private": false,
   "type": "commonjs",
   "scripts": {
-    "start: "node index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "docxtemplater": "^3.22.1",
