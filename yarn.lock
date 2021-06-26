@@ -117,6 +117,11 @@ duplexer2@~0.1.4:
   dependencies:
     readable-stream "^2.0.2"
 
+excel-date-to-js@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/excel-date-to-js/-/excel-date-to-js-1.0.6.tgz#0a0d783cf9b35b29c16c05d83d45dcd3341e308b"
+  integrity sha512-8t6/ZFtJtsMpCeFVoB7ooYBCrMsr94m21dWAG2QlfAaonQJTh+No+pTN0VRNWEvD7LqXk9ZBEJFcDSEvT2VQ3w==
+
 exit-on-epipe@~1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/exit-on-epipe/-/exit-on-epipe-1.0.1.tgz#0bdd92e87d5285d267daa8171d0eb06159689692"
